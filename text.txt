@@ -1,0 +1,2 @@
+the teacher id is 101 , teacher name is achyuth , teacher class and section are 9 and C respectively
+teacher id is 103,teacher name is neveen ,teacher class and section are 10 and C respectively
