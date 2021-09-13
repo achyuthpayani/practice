@@ -1,0 +1,16 @@
+C:\Users\11036845\source\repos\textfileproject1\textfileproject1\bin\Debug\net5.0\textfileproject1.exe
+C:\Users\11036845\source\repos\textfileproject1\textfileproject1\bin\Debug\net5.0\textfileproject1.deps.json
+C:\Users\11036845\source\repos\textfileproject1\textfileproject1\bin\Debug\net5.0\textfileproject1.runtimeconfig.json
+C:\Users\11036845\source\repos\textfileproject1\textfileproject1\bin\Debug\net5.0\textfileproject1.runtimeconfig.dev.json
+C:\Users\11036845\source\repos\textfileproject1\textfileproject1\bin\Debug\net5.0\textfileproject1.dll
+C:\Users\11036845\source\repos\textfileproject1\textfileproject1\bin\Debug\net5.0\ref\textfileproject1.dll
+C:\Users\11036845\source\repos\textfileproject1\textfileproject1\bin\Debug\net5.0\textfileproject1.pdb
+C:\Users\11036845\source\repos\textfileproject1\textfileproject1\obj\Debug\net5.0\textfileproject1.csproj.AssemblyReference.cache
+C:\Users\11036845\source\repos\textfileproject1\textfileproject1\obj\Debug\net5.0\textfileproject1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\11036845\source\repos\textfileproject1\textfileproject1\obj\Debug\net5.0\textfileproject1.AssemblyInfoInputs.cache
+C:\Users\11036845\source\repos\textfileproject1\textfileproject1\obj\Debug\net5.0\textfileproject1.AssemblyInfo.cs
+C:\Users\11036845\source\repos\textfileproject1\textfileproject1\obj\Debug\net5.0\textfileproject1.csproj.CoreCompileInputs.cache
+C:\Users\11036845\source\repos\textfileproject1\textfileproject1\obj\Debug\net5.0\textfileproject1.dll
+C:\Users\11036845\source\repos\textfileproject1\textfileproject1\obj\Debug\net5.0\ref\textfileproject1.dll
+C:\Users\11036845\source\repos\textfileproject1\textfileproject1\obj\Debug\net5.0\textfileproject1.pdb
+C:\Users\11036845\source\repos\textfileproject1\textfileproject1\obj\Debug\net5.0\textfileproject1.genruntimeconfig.cache
